@@ -29,7 +29,7 @@ Spike supports adding other users to the group(Check comptibility if they qualif
 `spike register 5555555555 bobbyfresh`
 
 ### Change Username 
-Spike allows you to update how your username appears in chat. 
+Spike allows you to update how your username appears in chat. <br />
 `spike change username traderBobby📈💯📉`
 
 ### Muting messages from users 
