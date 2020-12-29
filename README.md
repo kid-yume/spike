@@ -21,5 +21,29 @@ please we are open to suggestions!! Please
 * MMS compatible(1 photo per message at moment)
 
 ## Issuing Commands 
-You can issue commands to spike through SMS directly. You start the message off with "Spike". Through these commands spike can either add users to the group, add users to a watchlist, allow users to create their own watchlist and even mute other users! 
+You can issue commands to spike through SMS directly. You start the message off with "Spike". Through these commands spike can either add users to the group, add users to a watchlist, allow users to create their own watchlist and even customize the alerts they receive to their device! 
+
+
+### Adding users to the Group 
+Spike supports adding other users to the group(Check comptibility if they qualify)  If the group is public everybody can send a message to spike that brings new users to the fun.  
+`spike register 5555555555 bobbyfresh`
+
+### Change Username 
+`spike change username traderBobby📈📉‼️`
+
+### Muting messages from users 
+Spike allows you to mute the chat and later you will be able to exclude to certain users as well 
+`spike mute chat all`
+
+### Getting alerts for Symbols 
+Spike can keep an eye on a symbol and give you a play by based on time duration 
+`spike add AAPL watchlist`
+
+
+
+
+
+
+
+
 
