@@ -25,19 +25,20 @@ You can issue commands to spike through SMS directly. You start the message off 
 
 
 ### Adding users to the Group 
-Spike supports adding other users to the group(Check comptibility if they qualify)  If the group is public everybody can send a message to spike that brings new users to the fun.  
+Spike supports adding other users to the group(Check comptibility if they qualify)  If the group is public everybody can send a message to spike that brings new users to the fun.  <br />
 `spike register 5555555555 bobbyfresh`
 
 ### Change Username 
-`spike change username traderBobby📈📉‼️`
+Spike allows you to update how your username appears in chat. 
+`spike change username traderBobby📈💯📉`
 
 ### Muting messages from users 
-Spike allows you to mute the chat and later you will be able to exclude to certain users as well 
+Spike allows you to mute the chat and later you will be able to exclude to certain users as well <br />
 `spike mute chat all`
 
 ### Getting alerts for Symbols 
-Spike can keep an eye on a symbol and give you a play by based on time duration 
-`spike add AAPL watchlist`
+Spike can keep an eye on a symbol and give you a play by based on time duration. Spike can update you on the minute, hour, or day. Depending on how you would like. Currently this feature will not be widely available.  <br />
+`spike add AAPL hourly watchlist`
 
 
 
