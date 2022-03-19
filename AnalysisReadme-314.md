@@ -45,6 +45,10 @@ Intro: I found myself buying on option this week in ADM and unfortunately I ran 
 :---------------------------------------------------------------------------:|:--------------------------------------------------------------------:
  <a href="https://postimg.cc/SXdqkqLF"><img src="https://i.postimg.cc/DZkzQw8Z/ADM-Screenshot.png" alt="ADM-Screenshot" border="0"></a><br>Click image to enlarge  | <b>Pros:</b> <ul align="left"> <li>shift noticed and fired off signals to purchase puts.</li> <li> There was a heavy drop the following next days. </li> <li>Profit made $$$ </li></ul>  <br> <b>Cons:</b> <ul align="left"> <li>Signal was too early *due to the significant increase value immediately was lost. </li> <li>Trade took a week to break even</li> </ul>
 
+### RBLX
+**Chart**	                                                                   |**Analyis** 
+:---------------------------------------------------------------------------:|:--------------------------------------------------------------------:
+ <a href="https://postimg.cc/bG5cKH4x"><img src="https://i.postimg.cc/bG5cKH4x/Rblx-Chart.png" alt="RBLX-Screenshot" border="0"></a><br>Click image to enlarge  | <b>Pros:</b> <ul align="left"> <li>shift noticed and fired off signals to purchase puts.</li> <li> There was a heavy drop the following next days. </li> <li>Profit made $$$ </li></ul>  <br> <b>Cons:</b> <ul align="left"> <li>Signal was too early *due to the significant increase value immediately was lost. </li> <li>Trade took a week to break even</li> </ul>
 
 
  
