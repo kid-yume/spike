@@ -31,7 +31,7 @@ reasons. However, this strategy has served me very well and you find that in my 
 trades, following an analyzation of the movement, and at the end Conclude the different things I have noticed. If you find something else please do not hesitate 
 to email me at adowning@bottom-feeders.com. I do check this email quite often and honestly Im more likely to reply there then I am a text message. ^__^ Without 
 further adou please review and provide feedback! if you want to join our text group please shoot me an email with your phone number. 
-
+ 
 ## The Experiment
 &nbsp;&nbsp;&nbsp;&nbsp; With this first round of investments. When Spike sent a signal I went ahead and made the purchase within the hour. For the purity of trying 
 to put myself in Spike's shoes I kept this constant through every trade this go round. However, You will notice how I started to make adjustments to exit points as 
