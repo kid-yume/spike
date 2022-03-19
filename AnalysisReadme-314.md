@@ -43,7 +43,7 @@ Intro: I found myself buying on option this week in ADM and unfortunately I ran 
 ###	ADM  
 **Chart**	                                                                   |**Analyis** 
 :---------------------------------------------------------------------------:|:--------------------------------------------------------------------:
- <a href="https://ibb.co/1ZcHrMv"><img src="https://i.postimg.cc/DZkzQw8Z/ADM-Screenshot.png" alt="ADM-Screenshot" border="0"></a><br>Click image to enlarge  | <b>Pros:</b> *Spike noticed a shift in volume and fired off signals to purchase puts. *There was a heavy drop the following next days. *Profit made $$$  <br> <b>Cons:</b> *Signal was too early *due to the significant increase value immediately was lost. *Trade took a week to break even
+ <a href="https://postimg.cc/SXdqkqLF"><img src="https://i.postimg.cc/DZkzQw8Z/ADM-Screenshot.png" alt="ADM-Screenshot" border="0"></a><br>Click image to enlarge  | <b>Pros:</b> *Spike noticed a shift in volume and fired off signals to purchase puts. *There was a heavy drop the following next days. *Profit made $$$  <br> <b>Cons:</b> *Signal was too early *due to the significant increase value immediately was lost. *Trade took a week to break even
 
 
 
