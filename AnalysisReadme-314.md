@@ -35,7 +35,12 @@ further adou please review and provide feedback! if you want to join our text gr
 ## The Experiment
 &nbsp;&nbsp;&nbsp;&nbsp; With this first round of investments. When Spike sent a signal I went ahead and made the purchase within the hour. For the purity of trying 
 to put myself in Spike's shoes I kept this constant through every trade this go round. However, You will notice how I started to make adjustments to exit points as 
-the trades develop. 
+the trades develop.  I also am keeping it to only making purchases on Monday just to test the waters of keeping an option of longer then a day if necessary and Monday is one of the busiest days in the Stock Market due to the long weekends.(Two days of a closed market is very long lol )
+
+## The Tools
+&nbsp;&nbsp;&nbsp;&nbsp; For this Analysis. We utilized the following tools to purchse and view the symbols:
+* Robinhood - Free of commisison and easy to buy and sell options 
+* Trading Views - A popular chart viewing tool with quite a community backing it. 
 
 ## Week of March 3, 2021 
 Intro: I found myself buying on option this week in ADM and unfortunately I ran into some issues with the scanner during changes and had to make adjustments. 
@@ -44,6 +49,11 @@ Intro: I found myself buying on option this week in ADM and unfortunately I ran 
 **Chart**	                                                                   |**Analyis** 
 :---------------------------------------------------------------------------:|:--------------------------------------------------------------------:
  <a href="https://i.postimg.cc/DZkzQw8Z/ADM-Screenshot.png"><img src="https://i.postimg.cc/DZkzQw8Z/ADM-Screenshot.png" alt="ADM-Screenshot" border="0"></a><br>Click image to enlarge  | <b>Pros:</b> <ul align="left"> <li>shift noticed and fired off signals to purchase puts.</li> <li> There was a heavy drop the following next days. </li> <li>Profit made $$$ </li></ul>  <br> <b>Cons:</b> <ul align="left"> <li>Signal was too early *due to the significant increase value immediately was lost. </li> <li>Trade took a week to break even</li> </ul>
+
+
+## Week of March 7, 2021 
+Intro: I found myself buying on quite few options and testing the multiple signals. 
+
 
 ### RBLX
 **Chart**	                                                                   |**Analyis** 
@@ -54,7 +64,7 @@ Intro: I found myself buying on option this week in ADM and unfortunately I ran 
 ### SENSE
 **Chart**	                                                                   |**Analyis** 
 :---------------------------------------------------------------------------:|:--------------------------------------------------------------------:
- <a href="https://i.postimg.cc/2jXk3FB0/SENS-SCREENSHOOT.png"><img src="https://i.postimg.cc/2jXk3FB0/SENS-SCREENSHOOT.png" alt="RBLX-Screenshot" border="0"></a><br>Click image to enlarge  | <b>Pros:</b> <ul align="left"> <li>shift noticed and fired off signals to purchase puts.</li> <li> There was a heavy drop the following next days. </li> <li>Profit made $$$ </li></ul>  <br> <b>Cons:</b> <ul align="left"> <li>Signal was too early *due to the significant increase value immediately was lost. </li> <li>Trade took a week to break even</li> </ul>
+ <a href="https://i.postimg.cc/2jXk3FB0/SENS-SCREENSHOOT.png"><img src="https://i.postimg.cc/2jXk3FB0/SENS-SCREENSHOOT.png" alt="RBLX-Screenshot" border="0"></a><br>Click image to enlarge  | <b>Pros:</b> <ul align="left"> <li>shift noticed and fired off signals to purchase calls</li> <li> There was a increase within 2 days </li><li>Volatility followed increase. </li><li>Profit made $$$ </li></ul>  <br> <b>Cons:</b> <ul align="left"> <li>Signal was too early *due to the significant increase value immediately was lost. </li> <li>Potential Profit loss</li> </ul>
 
  
 ### GPRO
@@ -67,18 +77,43 @@ Intro: I found myself buying on option this week in ADM and unfortunately I ran 
 :---------------------------------------------------------------------------:|:--------------------------------------------------------------------:
  <a href="https://i.postimg.cc/jdLjhkbV/QS-Screenshot.png"><img src="https://i.postimg.cc/jdLjhkbV/QS-Screenshot.png" alt="RBLX-Screenshot" border="0"></a><br>Click image to enlarge  | <b>Pros:</b> <ul align="left"> <li>shift noticed and fired off signals to purchase puts.</li> <li> There was a heavy drop the following next days. </li> <li>Profit made $$$ </li></ul>  <br> <b>Cons:</b> <ul align="left"> <li>Signal was too early *due to the significant increase value immediately was lost. </li> <li>Trade took a week to break even</li> </ul>
 
- ### PG
-**Chart**	                                                                   |**Analyis** 
-:---------------------------------------------------------------------------:|:--------------------------------------------------------------------:
- <a href="https://i.postimg.cc/NGNMmvZ7/PG-Screenshot.png"><img src="https://i.postimg.cc/NGNMmvZ7/PG-Screenshot.png" alt="RBLX-Screenshot" border="0"></a><br>Click image to enlarge  | <b>Pros:</b> <ul align="left"> <li>shift noticed and fired off signals to purchase puts.</li> <li> There was a heavy drop the following next days. </li> <li>Profit made $$$ </li></ul>  <br> <b>Cons:</b> <ul align="left"> <li>Signal was too early *due to the significant increase value immediately was lost. </li> <li>Trade took a week to break even</li> </ul>
-
+ ## Week of March 14, 2021 
+Intro: I found myself buying on option this week in ADM and unfortunately I ran into some issues with the scanner during changes and had to make adjustments. 
 
 ### ALLY
 **Chart**	                                                                   |**Analyis** 
 :---------------------------------------------------------------------------:|:--------------------------------------------------------------------:
  <a href="https://i.postimg.cc/2jxWttMV/ALLY-Screenshot.png"><img src="https://i.postimg.cc/2jxWttMV/ALLY-Screenshot.png" alt="RBLX-Screenshot" border="0"></a><br>Click image to enlarge  | <b>Pros:</b> <ul align="left"> <li>shift noticed and fired off signals to purchase puts.</li> <li> There was a heavy drop the following next days. </li> <li>Profit made $$$ </li></ul>  <br> <b>Cons:</b> <ul align="left"> <li>Signal was too early *due to the significant increase value immediately was lost. </li> <li>Trade took a week to break even</li> </ul>
 
+
+
+ ### PG
+**Chart**	                                                                   |**Analyis** 
+:---------------------------------------------------------------------------:|:--------------------------------------------------------------------:
+ <a href="https://i.postimg.cc/NGNMmvZ7/PG-Screenshot.png"><img src="https://i.postimg.cc/NGNMmvZ7/PG-Screenshot.png" alt="RBLX-Screenshot" border="0"></a><br>Click image to enlarge  | <b>Pros:</b> <ul align="left"> <li>shift noticed and fired off signals to purchase puts.</li> <li> There was a heavy drop the following next days. </li> <li>Profit made $$$ </li></ul>  <br> <b>Cons:</b> <ul align="left"> <li>Signal was too early *due to the significant increase value immediately was lost. </li> <li>Trade took a week to break even</li> </ul>
+
+
  ### ATVI
 **Chart**	                                                                   |**Analyis** 
 :---------------------------------------------------------------------------:|:--------------------------------------------------------------------:
  <a href="https://i.postimg.cc/BvxbKLGX/Screen-Shot-2022-03-19-at-1-41-50-AM.png"><img src="https://i.postimg.cc/BvxbKLGX/Screen-Shot-2022-03-19-at-1-41-50-AM.png" alt="RBLX-Screenshot" border="0"></a><br>Click image to enlarge  | <b>Pros:</b> <ul align="left"> <li>shift noticed and fired off signals to purchase puts.</li> <li> There was a heavy drop the following next days. </li> <li>Profit made $$$ </li></ul>  <br> <b>Cons:</b> <ul align="left"> <li>Signal was too early *due to the significant increase value immediately was lost. </li> <li>Trade took a week to break even</li> </ul>
+
+ ## In Conclusion
+&nbsp;&nbsp;&nbsp;&nbsp; To conclude my findings. I have found that we are successfull in quite a few areas including 
+* Achieved Goal of Finding symbols with volatility of $1.00 movement that can provide provide 100%+ profit. 
+* Portfolio went from $400 to $800 in two weeks. If not for the loss of the ATVI we would have been at $1000!
+
+&nbsp;&nbsp;&nbsp;&nbsp;Now there is def room for improvement.
+* Achieve more precise Entries or possibly add an additional signal for actually taking the position 
+* Limit taking or leaving positions on Market Open 
+
+ The trick will be teaching Spike how to ride trends out and identify entries based on indicators that will tell us when either buying or selling has been exhausted. 
+ I will be enabling "volume Area", MACID , and RSI indicators to aid in these efforts and again all input is welcomed and much needed! I appreciate you guys reviewing these findings and look forward to your suggestions and trading with yall! We will be ready for the Amazon split and lets make money!
+
+
+
+
+I hoped to accomplish when I sought out to make a stock 
+screener. With so many symbols out there its almost impossible to be able to just find the right ones and most traders tend to stick to a symbol to trade on that 
+they get familiar with. This way we get exposure to not only other stokks out there but these kinds of scans are def. Sneak peeks to potential breakouts in the 
+future and hey you might find a symbol you wanna actually invest in and hold shares in. 
