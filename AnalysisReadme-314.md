@@ -107,13 +107,38 @@ Intro: I found myself buying on option this week in ADM and unfortunately I ran 
 * Achieve more precise Entries or possibly add an additional signal for actually taking the position 
 * Limit taking or leaving positions on Market Open 
 
- The trick will be teaching Spike how to ride trends out and identify entries based on indicators that will tell us when either buying or selling has been exhausted. 
- I will be enabling "volume Area", MACID , and RSI indicators to aid in these efforts and again all input is welcomed and much needed! I appreciate you guys reviewing these findings and look forward to your suggestions and trading with yall! We will be ready for the Amazon split and lets make money!
+ &nbsp;&nbsp;&nbsp;&nbsp;The trick will be teaching Spike how to ride trends out and identify entries based on indicators that will tell us when either buying or 
+ selling has been exhausted. 
+ I will be enabling "volume Area", MACID , and RSI indicators to aid in these efforts and again all input is welcomed and much needed! I appreciate you guys 
+ reviewing these findings and look forward to your suggestions and trading with yall! We will be ready for the Amazon split and lets make money!
 
-
-
-
-I hoped to accomplish when I sought out to make a stock 
+ &nbsp;&nbsp;&nbsp;&nbspI hoped to accomplish when I sought out to make a stock 
 screener. With so many symbols out there its almost impossible to be able to just find the right ones and most traders tend to stick to a symbol to trade on that 
 they get familiar with. This way we get exposure to not only other stokks out there but these kinds of scans are def. Sneak peeks to potential breakouts in the 
 future and hey you might find a symbol you wanna actually invest in and hold shares in. 
+ ## Contributing
+
+We are accepting external contributions at this time. The current release of spike is not necessarily open to the 
+public and currently this is a closed beta in which I hope to sell Spike logic following the Amazon split. 
+If you would to learn more or interested in Contributing please feel free to reach out.
+
+* To discuss this project send an email to adowning@bottom-feeders.com.
+* Read more about releases in our [release notes](docs/release_notes.md).
+* Please provide any feedback when possible.
+
+
+## Disclaimers
+
+The current release of the application is in active development.
+This is **not** advice on how or what symbols to invest in but documentation and sharing of 
+how I trade on a daily with the use of this stock screener "Spike"
+Documentation, including those for end users of this system, is provided in this
+repository only as examples of the "out of box" experience for the app and does
+not account for any modifications made by the administrator in deploying the
+app. Administrators should review and adjust all documentation and instructions
+found in the app as applicable to their deployment.
+
+
+
+
+
