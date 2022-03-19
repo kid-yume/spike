@@ -43,12 +43,12 @@ Intro: I found myself buying on option this week in ADM and unfortunately I ran 
 ###	ADM  
 **Chart**	                                                                   |**Analyis** 
 :---------------------------------------------------------------------------:|:--------------------------------------------------------------------:
- <a href="https://postimg.cc/SXdqkqLF"><img src="https://i.postimg.cc/DZkzQw8Z/ADM-Screenshot.png" alt="ADM-Screenshot" border="0"></a><br>Click image to enlarge  | <b>Pros:</b> <ul align="left"> <li>shift noticed and fired off signals to purchase puts.</li> <li> There was a heavy drop the following next days. </li> <li>Profit made $$$ </li></ul>  <br> <b>Cons:</b> <ul align="left"> <li>Signal was too early *due to the significant increase value immediately was lost. </li> <li>Trade took a week to break even</li> </ul>
+ <a href="https://i.postimg.cc/DZkzQw8Z/ADM-Screenshot.png"><img src="https://i.postimg.cc/DZkzQw8Z/ADM-Screenshot.png" alt="ADM-Screenshot" border="0"></a><br>Click image to enlarge  | <b>Pros:</b> <ul align="left"> <li>shift noticed and fired off signals to purchase puts.</li> <li> There was a heavy drop the following next days. </li> <li>Profit made $$$ </li></ul>  <br> <b>Cons:</b> <ul align="left"> <li>Signal was too early *due to the significant increase value immediately was lost. </li> <li>Trade took a week to break even</li> </ul>
 
 ### RBLX
 **Chart**	                                                                   |**Analyis** 
 :---------------------------------------------------------------------------:|:--------------------------------------------------------------------:
- <a href="https://postimg.cc/bG5cKH4x"><img src="https://i.postimg.cc/bG5cKH4x/Rblx-Chart.png" alt="RBLX-Screenshot" border="0"></a><br>Click image to enlarge  | <b>Pros:</b> <ul align="left"> <li>shift noticed and fired off signals to purchase puts.</li> <li> There was a heavy drop the following next days. </li> <li>Profit made $$$ </li></ul>  <br> <b>Cons:</b> <ul align="left"> <li>Signal was too early *due to the significant increase value immediately was lost. </li> <li>Trade took a week to break even</li> </ul>
+ <a href="https://i.postimg.cc/DZvv4xgM/Rblx-Chart.png"><img src="https://i.postimg.cc/DZvv4xgM/Rblx-Chart.png" alt="RBLX-Screenshot" border="0"></a><br>Click image to enlarge  | <b>Pros:</b> <ul align="left"> <li>shift noticed and fired off signals to purchase puts.</li> <li> There was a heavy drop the following next days. </li> <li>Profit made $$$ </li></ul>  <br> <b>Cons:</b> <ul align="left"> <li>Signal was too early *due to the significant increase value immediately was lost. </li> <li>Trade took a week to break even</li> </ul>
 
 
 ### SENSE
@@ -57,4 +57,28 @@ Intro: I found myself buying on option this week in ADM and unfortunately I ran 
  <a href="https://i.postimg.cc/2jXk3FB0/SENS-SCREENSHOOT.png"><img src="https://i.postimg.cc/2jXk3FB0/SENS-SCREENSHOOT.png" alt="RBLX-Screenshot" border="0"></a><br>Click image to enlarge  | <b>Pros:</b> <ul align="left"> <li>shift noticed and fired off signals to purchase puts.</li> <li> There was a heavy drop the following next days. </li> <li>Profit made $$$ </li></ul>  <br> <b>Cons:</b> <ul align="left"> <li>Signal was too early *due to the significant increase value immediately was lost. </li> <li>Trade took a week to break even</li> </ul>
 
  
+### GPRO
+**Chart**	                                                                   |**Analyis** 
+:---------------------------------------------------------------------------:|:--------------------------------------------------------------------:
+ <a href="https://i.postimg.cc/NFPjcRRP/Gpro-Screenshot.png"><img src="https://i.postimg.cc/NFPjcRRP/Gpro-Screenshot.png" alt="RBLX-Screenshot" border="0"></a><br>Click image to enlarge  | <b>Pros:</b> <ul align="left"> <li>shift noticed and fired off signals to purchase puts.</li> <li> There was a heavy drop the following next days. </li> <li>Profit made $$$ </li></ul>  <br> <b>Cons:</b> <ul align="left"> <li>Signal was too early *due to the significant increase value immediately was lost. </li> <li>Trade took a week to break even</li> </ul>
 
+ ### QS
+**Chart**	                                                                   |**Analyis** 
+:---------------------------------------------------------------------------:|:--------------------------------------------------------------------:
+ <a href="https://i.postimg.cc/jdLjhkbV/QS-Screenshot.png"><img src="https://i.postimg.cc/jdLjhkbV/QS-Screenshot.png" alt="RBLX-Screenshot" border="0"></a><br>Click image to enlarge  | <b>Pros:</b> <ul align="left"> <li>shift noticed and fired off signals to purchase puts.</li> <li> There was a heavy drop the following next days. </li> <li>Profit made $$$ </li></ul>  <br> <b>Cons:</b> <ul align="left"> <li>Signal was too early *due to the significant increase value immediately was lost. </li> <li>Trade took a week to break even</li> </ul>
+
+ ### PG
+**Chart**	                                                                   |**Analyis** 
+:---------------------------------------------------------------------------:|:--------------------------------------------------------------------:
+ <a href="https://i.postimg.cc/NGNMmvZ7/PG-Screenshot.png"><img src="https://i.postimg.cc/NGNMmvZ7/PG-Screenshot.png" alt="RBLX-Screenshot" border="0"></a><br>Click image to enlarge  | <b>Pros:</b> <ul align="left"> <li>shift noticed and fired off signals to purchase puts.</li> <li> There was a heavy drop the following next days. </li> <li>Profit made $$$ </li></ul>  <br> <b>Cons:</b> <ul align="left"> <li>Signal was too early *due to the significant increase value immediately was lost. </li> <li>Trade took a week to break even</li> </ul>
+
+
+### ALLY
+**Chart**	                                                                   |**Analyis** 
+:---------------------------------------------------------------------------:|:--------------------------------------------------------------------:
+ <a href="https://i.postimg.cc/2jxWttMV/ALLY-Screenshot.png"><img src="https://i.postimg.cc/2jxWttMV/ALLY-Screenshot.png" alt="RBLX-Screenshot" border="0"></a><br>Click image to enlarge  | <b>Pros:</b> <ul align="left"> <li>shift noticed and fired off signals to purchase puts.</li> <li> There was a heavy drop the following next days. </li> <li>Profit made $$$ </li></ul>  <br> <b>Cons:</b> <ul align="left"> <li>Signal was too early *due to the significant increase value immediately was lost. </li> <li>Trade took a week to break even</li> </ul>
+
+ ### ATVI
+**Chart**	                                                                   |**Analyis** 
+:---------------------------------------------------------------------------:|:--------------------------------------------------------------------:
+ <a href="https://i.postimg.cc/BvxbKLGX/Screen-Shot-2022-03-19-at-1-41-50-AM.png"><img src="https://i.postimg.cc/BvxbKLGX/Screen-Shot-2022-03-19-at-1-41-50-AM.png" alt="RBLX-Screenshot" border="0"></a><br>Click image to enlarge  | <b>Pros:</b> <ul align="left"> <li>shift noticed and fired off signals to purchase puts.</li> <li> There was a heavy drop the following next days. </li> <li>Profit made $$$ </li></ul>  <br> <b>Cons:</b> <ul align="left"> <li>Signal was too early *due to the significant increase value immediately was lost. </li> <li>Trade took a week to break even</li> </ul>
