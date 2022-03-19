@@ -27,9 +27,9 @@ Analysis and Review
 Intro: I found myself buying on option this week in ADM and unfortunately I ran into some issues with the scanner during changes and had to make adjustments. 
 
 ###	ADM  
-**1.**	ADM Call purchsed 3/14                               
-:--------------------------------------------------------------------:
-<a href="https://ibb.co/1ZcHrMv"><img src="https://i.ibb.co/qB6bNCy/ADM-Screenshot.png" alt="ADM-Screenshot" border="0"></a>
+**1.**	ADM                                                                  |**Analyis** 
+:---------------------------------------------------------------------------:|:--------------------------------------------------------------------:
+ <a href="https://ibb.co/1ZcHrMv"><img src="https://i.ibb.co/qB6bNCy/ADM-Screenshot.png" alt="ADM-Screenshot" border="0"></a>  |  My analyiss goes into............................
 
  
 
