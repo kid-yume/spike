@@ -43,7 +43,7 @@ Intro: I found myself buying on option this week in ADM and unfortunately I ran 
 ###	ADM  
 **Chart**	                                                                   |**Analyis** 
 :---------------------------------------------------------------------------:|:--------------------------------------------------------------------:
- <a href="https://postimg.cc/SXdqkqLF"><img src="https://i.postimg.cc/DZkzQw8Z/ADM-Screenshot.png" alt="ADM-Screenshot" border="0"></a><br>Click image to enlarge  | <b>Pros:</b> <ul> <li>shift noticed and fired off signals to purchase puts.</li> <li> There was a heavy drop the following next days. </li> <li>Profit made $$$ </li></ul>  <br> <b>Cons:</b> <ul> <li>Signal was too early *due to the significant increase value immediately was lost. </li> <li>Trade took a week to break even</li> </ul>
+ <a href="https://postimg.cc/SXdqkqLF"><img src="https://i.postimg.cc/DZkzQw8Z/ADM-Screenshot.png" alt="ADM-Screenshot" border="0"></a><br>Click image to enlarge  | <b>Pros:</b> <ul align="left"> <li align="left">shift noticed and fired off signals to purchase puts.</li> <li> There was a heavy drop the following next days. </li> <li>Profit made $$$ </li></ul>  <br> <b>Cons:</b> <ul> <li>Signal was too early *due to the significant increase value immediately was lost. </li> <li>Trade took a week to break even</li> </ul>
 
 
 
