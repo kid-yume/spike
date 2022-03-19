@@ -39,7 +39,7 @@ the trades develop.
 
 ## Week of March 3, 2021 
 Intro: I found myself buying on option this week in ADM and unfortunately I ran into some issues with the scanner during changes and had to make adjustments. 
-
+ 
 ###	ADM  
 **Chart**	                                                                   |**Analyis** 
 :---------------------------------------------------------------------------:|:--------------------------------------------------------------------:
