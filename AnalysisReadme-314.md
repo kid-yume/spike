@@ -112,7 +112,7 @@ Intro: I found myself buying on option this week in ADM and unfortunately I ran 
  I will be enabling "volume Area", MACID , and RSI indicators to aid in these efforts and again all input is welcomed and much needed! I appreciate you guys 
  reviewing these findings and look forward to your suggestions and trading with yall! We will be ready for the Amazon split and lets make money!
 
- &nbsp;&nbsp;&nbsp;&nbspI hoped to accomplish when I sought out to make a stock 
+&nbsp;&nbsp;&nbsp;&nbsp;I hoped to accomplish when I sought out to make a stock 
 screener. With so many symbols out there its almost impossible to be able to just find the right ones and most traders tend to stick to a symbol to trade on that 
 they get familiar with. This way we get exposure to not only other stokks out there but these kinds of scans are def. Sneak peeks to potential breakouts in the 
 future and hey you might find a symbol you wanna actually invest in and hold shares in. 
