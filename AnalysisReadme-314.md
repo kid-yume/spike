@@ -10,7 +10,7 @@ Analysis and Review
 &nbsp;&nbsp;&nbsp;&nbsp;Welcome! Thanks for taking the time out to review and analayze my portfolio as I document the options that I am investing in based off signals provided by our 
 pal, Spike! Remeber. This is development and if you are reviewing this page, I not only trust you but I am inviting you to help in the growth of Spike. I will be 
 detailing the options I have purchased since March 3th and providing my own little analysis on them each week. There may be gaps due to me making some code 
-changes. 
+changes. Remember since my funds are limited spike monitors over 500 symbols daily! This is only a taste of what spike can do! 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Please remember that these signals are not perfected and any time you invest in the market you incur risks so please manage your risks and only invest what you 
 are willing to lose if you decide to follow my trades. In no way shape or form am I credentialed to tell you or give advice on how to invest. This is merely a 
@@ -32,13 +32,20 @@ trades, following an analyzation of the movement, and at the end Conclude the di
 to email me at adowning@bottom-feeders.com. I do check this email quite often and honestly Im more likely to reply there then I am a text message. ^__^ Without 
 further adou please review and provide feedback! if you want to join our text group please shoot me an email with your phone number. 
 
+## The Experiment
+&nbsp;&nbsp;&nbsp;&nbsp; With this first round of investments. When Spike sent a signal I went ahead and made the purchase within the hour. For the purity of trying 
+to put myself in Spike's shoes I kept this constant through every trade this go round. However, You will notice how I started to make adjustments to exit points as 
+the trades develop. 
+
 ## Week of March 3, 2021 
 Intro: I found myself buying on option this week in ADM and unfortunately I ran into some issues with the scanner during changes and had to make adjustments. 
 
 ###	ADM  
-**1.**	Chart                                                                 |**Analyis** 
+**Chart**	                                                                   |**Analyis** 
 :---------------------------------------------------------------------------:|:--------------------------------------------------------------------:
- <a href="https://ibb.co/1ZcHrMv"><img src="https://i.ibb.co/qB6bNCy/ADM-Screenshot.png" alt="ADM-Screenshot" border="0"></a>  |  My analyiss goes into............................
+ <a href="https://ibb.co/1ZcHrMv"><img src="https://i.ibb.co/qB6bNCy/ADM-Screenshot.png" alt="ADM-Screenshot" border="0"></a>  | <b>Pros:</b> *Spike noticed a shift in volume and fired off signals to purchase puts. *There was a heavy drop the following next days. *Profit made $$$  <br> <b>Cons:</b> *Signal was too early *due to the significant increase value immediately was lost. *Trade took a week to break even
+
+
 
  
 
