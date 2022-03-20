@@ -62,16 +62,16 @@ Intro: I found myself buying on quite few options and testing the multiple signa
 
 
 
-### SENSE
+### SENS
 **Chart**	                                                                   |**Analyis** 
 :---------------------------------------------------------------------------:|:--------------------------------------------------------------------:
- <a href="https://i.postimg.cc/2jXk3FB0/SENS-SCREENSHOOT.png"><img src="https://i.postimg.cc/2jXk3FB0/SENS-SCREENSHOOT.png" alt="RBLX-Screenshot" border="0"></a><br>Click image to enlarge  | <b>Pros:</b> <ul align="left"> <li>shift noticed and fired off signals to purchase calls</li> <li> There was a increase within 2 days </li><li>Volatility followed increase. </li><li>Profit made $$$ </li></ul>  <br> <b>Cons:</b> <ul align="left"> <li>Signal was too early *due to the significant increase value immediately was lost. </li> <li>Potential Profit loss</li> </ul>
+ <a href="https://i.postimg.cc/2jXk3FB0/SENS-SCREENSHOOT.png"><img src="https://i.postimg.cc/2jXk3FB0/SENS-SCREENSHOOT.png" alt="RBLX-Screenshot" border="0"></a><br>Click image to enlarge  | <b>Pros:</b> <ul align="left"> <li>shift noticed and fired off signals to purchase puts.</li> <li> There was a jump following the current trend in progress </li></ul>  <br> <b>Cons:</b> <ul align="left"> <li>Signal was too early *due to the significant decrease; value immediately was lost. </li> <li>Trade broke event.</li> <li>Exit too early.</li></ul>
 
  
 ### GPRO
 **Chart**	                                                                   |**Analyis** 
 :---------------------------------------------------------------------------:|:--------------------------------------------------------------------:
- <a href="https://i.postimg.cc/NFPjcRRP/Gpro-Screenshot.png"><img src="https://i.postimg.cc/NFPjcRRP/Gpro-Screenshot.png" alt="RBLX-Screenshot" border="0"></a><br>Click image to enlarge  | <b>Pros:</b> <ul align="left"> <li>shift noticed and fired off signals to purchase puts.</li> <li> There was a heavy drop the following next days. </li> <li>Profit made $$$ </li></ul>  <br> <b>Cons:</b> <ul align="left"> <li>Signal was too early *due to the significant increase value immediately was lost. </li> <li>Trade took a week to break even</li> </ul>
+ <a href="https://i.postimg.cc/NFPjcRRP/Gpro-Screenshot.png"><img src="https://i.postimg.cc/NFPjcRRP/Gpro-Screenshot.png" alt="RBLX-Screenshot" border="0"></a><br>Click image to enlarge  | <b>Pros:</b> <ul align="left"> <li>shift noticed and fired off signals to purchase puts.</li> <li> There was a jump following the current trend in progress </li></ul>  <br> <b>Cons:</b> <ul align="left"> <li>Signal was too early *due to the significant decrease; value immediately was lost. </li> <li>Trade broke event.</li> <li>Exit too early.</li></ul>
 
  ### QS
 **Chart**	                                                                   |**Analyis** 
