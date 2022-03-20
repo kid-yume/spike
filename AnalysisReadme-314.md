@@ -48,17 +48,18 @@ Intro: I found myself buying on option this week in ADM and unfortunately I ran 
 ###	ADM  
 **Chart**	                                                                   |**Analyis** 
 :---------------------------------------------------------------------------:|:--------------------------------------------------------------------:
- <a href="https://i.postimg.cc/DZkzQw8Z/ADM-Screenshot.png"><img src="https://i.postimg.cc/DZkzQw8Z/ADM-Screenshot.png" alt="ADM-Screenshot" border="0"></a><br>Click image to enlarge  | <b>Pros:</b> <ul align="left"> <li>shift noticed and fired off signals to purchase puts.</li> <li> There was a heavy drop the following next days. </li> <li>Profit made $$$ </li></ul>  <br> <b>Cons:</b> <ul align="left"> <li>Signal was too early *due to the significant increase value immediately was lost. </li> <li>Trade took a week to break even</li> </ul>
+ <a href="https://i.postimg.cc/DZkzQw8Z/ADM-Screenshot.png"><img src="https://i.postimg.cc/DZkzQw8Z/ADM-Screenshot.png" alt="ADM-Screenshot" border="0"></a><br>Click image to enlarge  | <b>Pros:</b> <ul align="left"> <li>shift noticed and fired off signals to purchase puts.</li> <li> There was a heavy drop the following next days. </li> <li>Profit made $$$ </li></ul>  <br> <b>Cons:</b> <ul align="left"> <li>Signal was too early *due to the significant increase value immediately was lost. </li> <li>Trade took a week to break even</li> </ul>immediately was lost. </li> <li>Trade took two days for profitn</li> </ul>
 
 
 ## Week of March 7, 2021 
-Intro: I found myself buying on quite few options and testing the multiple signals. 
+Intro: I found myself buying on quite few options and testing the multiple signals. During this week I had alittle experimentation with exit strategies. so i tried various ones to see How I may want to shape it. 
 
 
 ### RBLX
 **Chart**	                                                                   |**Analyis** 
 :---------------------------------------------------------------------------:|:--------------------------------------------------------------------:
- <a href="https://i.postimg.cc/DZvv4xgM/Rblx-Chart.png"><img src="https://i.postimg.cc/DZvv4xgM/Rblx-Chart.png" alt="RBLX-Screenshot" border="0"></a><br>Click image to enlarge  | <b>Pros:</b> <ul align="left"> <li>shift noticed and fired off signals to purchase puts.</li> <li> There was a heavy drop the following next days. </li> <li>Profit made $$$ </li></ul>  <br> <b>Cons:</b> <ul align="left"> <li>Signal was too early *due to the significant increase value immediately was lost. </li> <li>Trade took a week to break even</li> </ul>
+ <a href="https://i.postimg.cc/DZvv4xgM/Rblx-Chart.png"><img src="https://i.postimg.cc/DZvv4xgM/Rblx-Chart.png" alt="RBLX-Screenshot" border="0"></a><br>Click image to enlarge  | <b>Pros:</b> <ul align="left"> <li>shift noticed and fired off signals to purchase calls .</li> <li> There was a volatility that provided profit oveer next couple. </li> <li>Profit made $$$ </li></ul>  <br> <b>Cons:</b> <ul align="left"> <li>Signal was too early *due to the significant decrease value immediately was lost. </li> <li>Trade took two days for profitn</li> </ul>
+
 
 
 ### SENSE
