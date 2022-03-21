@@ -33,7 +33,8 @@ to email me at adowning@bottom-feeders.com. I do check this email quite often an
 further adou please review and provide feedback! if you want to join our text group please shoot me an email with your phone number. 
  
 ## The Experiment
-&nbsp;&nbsp;&nbsp;&nbsp; With this first round of investments. When Spike sent a signal I went ahead and made the purchase within the hour. For the purity of trying 
+&nbsp;&nbsp;&nbsp;&nbsp; With this first round of investments. When Spike sent a signal I went ahead and made the purchase within the hour upon market opening and I 
+kept the expiration date within two weeks.(This is high risk when it comes to options) For the purity of trying 
 to put myself in Spike's shoes I kept this constant through every trade this go round. However, You will notice how I started to make adjustments to exit points as 
 the trades develop.  I also am keeping it to only making purchases on Monday just to test the waters of keeping an option of longer then a day if necessary and Monday is one of the busiest days in the Stock Market due to the long weekends.(Two days of a closed market is very long lol )
 
